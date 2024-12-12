@@ -1,0 +1,8 @@
+product: jvm/app
+
+dependencies:
+  - $libs.okhttp
+  - $libs.jupiter
+
+test-dependencies:
+  - $libs.kotest

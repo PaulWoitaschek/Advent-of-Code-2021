@@ -1,0 +1,10 @@
+product: jvm/app
+
+dependencies:
+  - ../library
+
+test-dependencies:
+  - $libs.kotest
+
+test-settings:
+  junit: junit-5

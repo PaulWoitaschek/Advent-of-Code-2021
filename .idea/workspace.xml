@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f274c9a5-1897-4c17-ae69-b46b71fa88cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2015/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2016/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2017/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2018/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library/module.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2015/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2015/src/main/kotlin/aoc/year2015/Day4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2015/src/Day4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2015/src/main/kotlin/aoc/year2015/Day8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2015/src/Day8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2015/src/main/kotlin/aoc/year2015/Day9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2015/src/Day9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2015/src/test/kotlin/aoc/year2015/Day4Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2015/test/Day4Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2015/src/test/kotlin/aoc/year2015/Day8Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2015/test/Day8Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2015/src/test/kotlin/aoc/year2015/Day9Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2015/test/Day9Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/src/main/kotlin/aoc/year2016/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2016/src/Day1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/src/main/kotlin/aoc/year2016/Day3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2016/src/Day3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/src/test/kotlin/aoc/year2016/Day1Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2016/test/Day1Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2016/src/test/kotlin/aoc/year2016/Day3Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2016/test/Day3Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day12.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day15.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day16.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day17.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day17.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/main/kotlin/aoc/year2017/Day9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/src/Day9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day10Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day10Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day11Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day11Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day12Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day12Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day13Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day13Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day15Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day15Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day16Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day16Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day17Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day17Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day1Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day1Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day2Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day4Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day4Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day5Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day5Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day6Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day6Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day7Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day7Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017/src/test/kotlin/aoc/year2017/Day9Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2017/test/Day9Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/main/kotlin/aoc/year2018/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/src/Day1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/main/kotlin/aoc/year2018/Day10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/src/Day10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/main/kotlin/aoc/year2018/Day11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/src/Day11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/main/kotlin/aoc/year2018/Day2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/src/Day2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/main/kotlin/aoc/year2018/Day3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/src/Day3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/main/kotlin/aoc/year2018/Day4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/src/Day4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/main/kotlin/aoc/year2018/Day5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/src/Day5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/main/kotlin/aoc/year2018/Day7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/src/Day7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/main/kotlin/aoc/year2018/Day8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/src/Day8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/test/kotlin/aoc/year2018/Day10Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/test/Day10Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/test/kotlin/aoc/year2018/Day11Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/test/Day11Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/test/kotlin/aoc/year2018/Day1Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/test/Day1Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/test/kotlin/aoc/year2018/Day2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/test/Day2Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/test/kotlin/aoc/year2018/Day3Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/test/Day3Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/test/kotlin/aoc/year2018/Day4Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/test/Day4Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/test/kotlin/aoc/year2018/Day5Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/test/Day5Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/test/kotlin/aoc/year2018/Day7Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/test/Day7Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018/src/test/kotlin/aoc/year2018/Day8Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2018/test/Day8Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day12.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day14.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day15.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day16.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/Day9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/Day9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/main/kotlin/aoc/year2019/IntCodeComputer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/src/IntCodeComputer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day10Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day10Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day11Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day11Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day12Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day12Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day13Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day13Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day14Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day14Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day15Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day15Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day16Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day16Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day1Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day1Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day2Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day3Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day3Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day4Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day4Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day5Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day5Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day6Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day6Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day7Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day7Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day8Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day8Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/src/test/kotlin/aoc/year2019/Day9Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2019/test/Day9Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day12.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day14.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day15.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day16.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/main/kotlin/aoc/year2020/Day9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/src/Day9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day10Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day10Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day11Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day11Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day12Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day12Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day13Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day13Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day14Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day14Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day15Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day15Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day16Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day16Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day1Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day1Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day2Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day3Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day3Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day4Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day4Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day5Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day5Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day6Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day6Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day7Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day7Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day8Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day8Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020/src/test/kotlin/aoc/year2020/Day9Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2020/test/Day9Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day12.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day15.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day17.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day17.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day18.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day18.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day25.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day25.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/main/kotlin/aoc/year2021/Day9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/src/Day9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day10Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day10Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day11Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day11Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day12Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day12Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day13Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day13Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day15Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day15Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day17Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day17Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day18Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day18Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day1Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day1Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day25Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day25Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day2Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day3Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day3Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day4Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day4Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day5Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day5Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day6Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day6Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day7Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day7Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day8Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day8Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/Day9Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/Day9Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2021/src/test/kotlin/aoc/year2021/SnailFishNumberTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2021/test/SnailFishNumberTests.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day12.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day14.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day15.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day16.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day17.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day17.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day18.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day18.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day19.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day19.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day20.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day20.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day21.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day21.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day22.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day22.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day23.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day23.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day24.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day24.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day25.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day25.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/main/kotlin/aoc/year2022/Day9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/src/Day9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day10Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day10Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day11Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day11Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day12Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day12Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day13Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day13Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day14Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day14Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day15Tests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day15Tests.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day16Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day16Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day17Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day17Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day18Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day18Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day19Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day19Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day1Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day1Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day20Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day20Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day21Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day21Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day22Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day22Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day23Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day23Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day24Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day24Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day25Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day25Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day2Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day3Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day3Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day4Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day4Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day5Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day5Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day6Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day6Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day7Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day7Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day8Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day8Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/src/test/kotlin/aoc/year2022/Day9Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2022/test/Day9Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day12.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day12.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day13.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day13.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day14.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day15.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day15.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day16.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day16.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day17.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day17.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day18.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day18.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day19.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day19.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day20.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day20.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day21.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day21.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day22.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day22.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day23.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day23.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day24.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day24.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day25.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day25.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/main/kotlin/aoc/year2023/Day9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/src/Day9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day10Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day10Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day11Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day11Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day12Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day12Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day13Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day13Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day14Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day14Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day15Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day15Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day16Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day16Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day17Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day17Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day18Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day18Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day19Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day19Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day1Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day1Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day20Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day20Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day21Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day21Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day22Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day22Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day23Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day23Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day24Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day24Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day25Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day25Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day2Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day3Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day3Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day4Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day4Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day5Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day5Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day6Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day6Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day7Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day7Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day8Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day8Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/src/test/kotlin/aoc/year2023/Day9Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2023/test/Day9Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/main/kotlin/aoc/year2024/Day1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/src/Day1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/main/kotlin/aoc/year2024/Day10.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/src/Day10.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/main/kotlin/aoc/year2024/Day11.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/src/Day11.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/main/kotlin/aoc/year2024/Day2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/src/Day2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/main/kotlin/aoc/year2024/Day3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/src/Day3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/main/kotlin/aoc/year2024/Day4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/src/Day4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/main/kotlin/aoc/year2024/Day5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/src/Day5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/main/kotlin/aoc/year2024/Day6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/src/Day6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/main/kotlin/aoc/year2024/Day7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/src/Day7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/main/kotlin/aoc/year2024/Day8.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/src/Day8.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/main/kotlin/aoc/year2024/Day9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/src/Day9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/test/kotlin/aoc/year2024/Day10Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/test/Day10Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/test/kotlin/aoc/year2024/Day11Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/test/Day11Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/test/kotlin/aoc/year2024/Day1Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/test/Day1Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/test/kotlin/aoc/year2024/Day2Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/test/Day2Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/test/kotlin/aoc/year2024/Day3Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/test/Day3Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/test/kotlin/aoc/year2024/Day4Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/test/Day4Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/test/kotlin/aoc/year2024/Day5Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/test/Day5Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/test/kotlin/aoc/year2024/Day6Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/test/Day6Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/test/kotlin/aoc/year2024/Day7Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/test/Day7Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/test/kotlin/aoc/year2024/Day8Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/test/Day8Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/src/test/kotlin/aoc/year2024/Day9Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/2024/test/Day9Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/src/main/kotlin/aoc-base.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buildSrc/src/main/kotlin/aoc.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/kotlin/aoc/library/Direction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Direction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/kotlin/aoc/library/Grid.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Grid.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/kotlin/aoc/library/Input.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Input.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/kotlin/aoc/library/Point.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Point.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/kotlin/aoc/library/Point3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Point3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/kotlin/aoc/library/Puzzle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Puzzle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/kotlin/aoc/library/Range.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Range.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/kotlin/aoc/library/Rect.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Rect.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/kotlin/aoc/library/Shoelace.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/Shoelace.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/kotlin/aoc/library/lcm.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/lcm.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/test/kotlin/aoc/library/DirectionTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/DirectionTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/test/kotlin/aoc/library/LcmTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/LcmTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/test/kotlin/aoc/library/Point3Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/Point3Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/test/kotlin/aoc/library/PointTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/PointTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/test/kotlin/aoc/library/RangeIntersectTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/RangeIntersectTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/test/kotlin/aoc/library/RectTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/RectTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/test/kotlin/aoc/library/ShoelaceTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/library/test/ShoelaceTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepare/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prepare/src/main/kotlin/Prepare.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PaulWoitaschek&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:PaulWoitaschek/AdventOfCode.git&quot;,
+    &quot;accountId&quot;: &quot;10988017-a206-459e-b7ee-5af713165c3e&quot;
+  }
+}</component>
+  <component name="KotlinScriptingSettings">
+    <scriptDefinition className="org.jetbrains.kotlin.mainKts.MainKtsScript" definitionName="MainKtsScript">
+      <order>2147483647</order>
+    </scriptDefinition>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2q6MVKx0XF8UqcPQ9l2kYlu4l5w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.Day1Test (1).executor": "Run",
+    "JUnit.Day1Test (2).executor": "Run",
+    "JUnit.Day1Test.executor": "Run",
+    "JUnit.Day5Test.executor": "Run",
+    "JUnit.Day9Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "amper",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ph1b/repos/AdventOfCode",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.16920471"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.Day9Test">
+    <configuration name="Day1Test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2022.jvmTest" />
+      <option name="PACKAGE_NAME" value="aoc.year2022" />
+      <option name="MAIN_CLASS_NAME" value="aoc.year2022.Day1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day1Test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2018.jvmTest" />
+      <option name="PACKAGE_NAME" value="aoc.year2018" />
+      <option name="MAIN_CLASS_NAME" value="aoc.year2018.Day1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2023.jvmTest" />
+      <option name="PACKAGE_NAME" value="aoc.year2023" />
+      <option name="MAIN_CLASS_NAME" value="aoc.year2023.Day1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2018.jvmTest" />
+      <option name="PACKAGE_NAME" value="aoc.year2018" />
+      <option name="MAIN_CLASS_NAME" value="aoc.year2018.Day5Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day9Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="2021.jvmTest" />
+      <option name="PACKAGE_NAME" value="aoc.year2021" />
+      <option name="MAIN_CLASS_NAME" value="aoc.year2021.Day9Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="AdventOfCode.buildSrc.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="AdventOfCode.buildSrc.main" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="AdventOfCode.buildSrc.main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="AdventOfCode.buildSrc.main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="AdventOfCode.buildSrc.main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Day9Test" />
+        <item itemvalue="JUnit.Day5Test" />
+        <item itemvalue="JUnit.Day1Test (2)" />
+        <item itemvalue="JUnit.Day1Test (1)" />
+        <item itemvalue="JUnit.Day1Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f274c9a5-1897-4c17-ae69-b46b71fa88cd" name="Changes" comment="" />
+      <created>1733978594647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733978594647</updated>
+      <workItem from="1733978596316" duration="48000" />
+      <workItem from="1733978660558" duration="10000" />
+      <workItem from="1733978683881" duration="500000" />
+    </task>
+    <servers />
+  </component>
+</project>

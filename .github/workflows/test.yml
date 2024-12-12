@@ -16,7 +16,5 @@ jobs:
         with:
           distribution: temurin
           java-version: 21
-      - name: Setup Gradle
-        uses: gradle/gradle-build-action@v3
       - name: Run tests
-        run: ./gradlew build
+        run: ./amper test
